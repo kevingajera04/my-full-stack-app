@@ -358,5 +358,11 @@ For issues or questions:
 This project is provided as-is for educational and commercial use.
 
 ---
+## 🌐 Live Demo
+👉 https://my-full-stack-1tjx1cy5y-kevingajera04s-projects.vercel.app/
+
+
+## 📂 GitHub Repository
+👉 https://kevingajera04.github.io/my-full-stack-app/
 
 **Built with ❤️ - Premium Jewellery E-Commerce Platform**
